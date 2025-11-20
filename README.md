@@ -61,7 +61,5 @@ Access to models such as:
 - POST /api/chat → Sends message to model & returns reply
 - POST /api/thread → Create new thread
 - GET /api/thread → Get all threads
-
-GET /api/thread/:id → Get chat history for one thread
-
-DELETE /api/thread/:id → Remove thread
+- GET /api/thread/:id → Get chat history for one thread
+- DELETE /api/thread/:id → Remove thread
