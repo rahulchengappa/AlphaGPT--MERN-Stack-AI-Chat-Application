@@ -1,4 +1,5 @@
 AlphaGPT – MERN Stack AI-Powered Chat Application
+
 AlphaGPT is a MERN stack based AI chatbot application that delivers intelligent conversational capabilities with persistent chat threads, a modern UI, and seamless integration 
 with LLM providers via OpenRouter. It allows users to create multiple chat threads, switch between them, delete history, and generate AI responses in real-time—similar to ChatGPT.
 Designed with scalability in mind, AlphaGPT demonstrates how to integrate external LLM APIs with a custom backend, store chats in MongoDB, and render clean chat UI components with React.
